@@ -1,6 +1,4 @@
-HeartGuard
-
-# Progetto AI – Predizione degli Attacchi Cardiaci
+# Progetto AI – HeartGuard Predizione degli Attacchi Cardiaci
 
 Progetto di **Intelligenza Artificiale**  
 Anno accademico **2025/2026**  
