@@ -1,4 +1,4 @@
-# HeartGuard
+HeartGuard
 
 # Progetto AI – Predizione degli Attacchi Cardiaci
 
